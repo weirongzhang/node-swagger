@@ -7,7 +7,7 @@ const app = express();
 const swaggerOptions = {
 	swaggerDefinition: {
 	info: {
-		title: 'Library API',
+		title: 'Library API Deploy with AWS Code Pipeline',
 		version: '1.0.0'
 	}
 	},
